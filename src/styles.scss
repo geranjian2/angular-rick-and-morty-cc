@@ -1,0 +1,14 @@
+@import '@angular/cdk/overlay-prebuilt.css';
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.not-found-body {
+    margin: 0;
+    padding: 0;
+    background-color: #1e234d;
+    height: 100%;
+    overflow: hidden;
+  }
